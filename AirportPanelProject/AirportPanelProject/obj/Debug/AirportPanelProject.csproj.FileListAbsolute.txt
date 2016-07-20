@@ -1,0 +1,6 @@
+D:\LABS\AirportPanelProject\AirportPanelProject\bin\Debug\AirportPanelProject.exe.config
+D:\LABS\AirportPanelProject\AirportPanelProject\obj\Debug\AirportPanelProject.csprojResolveAssemblyReference.cache
+D:\LABS\AirportPanelProject\AirportPanelProject\bin\Debug\AirportPanelProject.exe
+D:\LABS\AirportPanelProject\AirportPanelProject\bin\Debug\AirportPanelProject.pdb
+D:\LABS\AirportPanelProject\AirportPanelProject\obj\Debug\AirportPanelProject.exe
+D:\LABS\AirportPanelProject\AirportPanelProject\obj\Debug\AirportPanelProject.pdb
