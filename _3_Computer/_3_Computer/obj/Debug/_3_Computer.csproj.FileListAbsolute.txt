@@ -1,0 +1,6 @@
+D:\LABS\_3_Computer\_3_Computer\bin\Debug\_3_Computer.exe.config
+D:\LABS\_3_Computer\_3_Computer\obj\Debug\_3_Computer.csprojResolveAssemblyReference.cache
+D:\LABS\_3_Computer\_3_Computer\bin\Debug\_3_Computer.exe
+D:\LABS\_3_Computer\_3_Computer\bin\Debug\_3_Computer.pdb
+D:\LABS\_3_Computer\_3_Computer\obj\Debug\_3_Computer.exe
+D:\LABS\_3_Computer\_3_Computer\obj\Debug\_3_Computer.pdb

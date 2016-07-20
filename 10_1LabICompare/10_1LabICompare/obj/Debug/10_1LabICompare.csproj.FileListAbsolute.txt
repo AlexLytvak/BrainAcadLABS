@@ -1,0 +1,6 @@
+D:\LABS\10_1LabICompare\10_1LabICompare\bin\Debug\10_1LabICompare.exe.config
+D:\LABS\10_1LabICompare\10_1LabICompare\bin\Debug\10_1LabICompare.exe
+D:\LABS\10_1LabICompare\10_1LabICompare\bin\Debug\10_1LabICompare.pdb
+D:\LABS\10_1LabICompare\10_1LabICompare\obj\Debug\10_1LabICompare.csprojResolveAssemblyReference.cache
+D:\LABS\10_1LabICompare\10_1LabICompare\obj\Debug\10_1LabICompare.exe
+D:\LABS\10_1LabICompare\10_1LabICompare\obj\Debug\10_1LabICompare.pdb

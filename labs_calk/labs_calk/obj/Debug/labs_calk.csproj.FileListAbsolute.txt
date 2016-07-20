@@ -1,0 +1,6 @@
+D:\LABS\labs_calk\labs_calk\bin\Debug\labs_calk.exe.config
+D:\LABS\labs_calk\labs_calk\bin\Debug\labs_calk.exe
+D:\LABS\labs_calk\labs_calk\bin\Debug\labs_calk.pdb
+D:\LABS\labs_calk\labs_calk\obj\Debug\labs_calk.csprojResolveAssemblyReference.cache
+D:\LABS\labs_calk\labs_calk\obj\Debug\labs_calk.exe
+D:\LABS\labs_calk\labs_calk\obj\Debug\labs_calk.pdb

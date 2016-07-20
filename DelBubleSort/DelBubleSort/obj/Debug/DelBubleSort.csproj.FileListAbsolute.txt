@@ -1,0 +1,6 @@
+D:\LABS\DelBubleSort\DelBubleSort\bin\Debug\DelBubleSort.exe.config
+D:\LABS\DelBubleSort\DelBubleSort\obj\Debug\DelBubleSort.csprojResolveAssemblyReference.cache
+D:\LABS\DelBubleSort\DelBubleSort\bin\Debug\DelBubleSort.exe
+D:\LABS\DelBubleSort\DelBubleSort\bin\Debug\DelBubleSort.pdb
+D:\LABS\DelBubleSort\DelBubleSort\obj\Debug\DelBubleSort.exe
+D:\LABS\DelBubleSort\DelBubleSort\obj\Debug\DelBubleSort.pdb

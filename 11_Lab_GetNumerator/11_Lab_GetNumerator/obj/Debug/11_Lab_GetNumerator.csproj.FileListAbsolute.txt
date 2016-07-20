@@ -1,0 +1,6 @@
+D:\LABS\11_Lab_GetNumerator\11_Lab_GetNumerator\bin\Debug\11_Lab_GetNumerator.exe.config
+D:\LABS\11_Lab_GetNumerator\11_Lab_GetNumerator\obj\Debug\11_Lab_GetNumerator.csprojResolveAssemblyReference.cache
+D:\LABS\11_Lab_GetNumerator\11_Lab_GetNumerator\bin\Debug\11_Lab_GetNumerator.exe
+D:\LABS\11_Lab_GetNumerator\11_Lab_GetNumerator\bin\Debug\11_Lab_GetNumerator.pdb
+D:\LABS\11_Lab_GetNumerator\11_Lab_GetNumerator\obj\Debug\11_Lab_GetNumerator.exe
+D:\LABS\11_Lab_GetNumerator\11_Lab_GetNumerator\obj\Debug\11_Lab_GetNumerator.pdb

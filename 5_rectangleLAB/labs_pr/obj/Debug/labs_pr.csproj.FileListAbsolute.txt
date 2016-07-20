@@ -1,0 +1,6 @@
+D:\LABS\labs_pr\labs_pr\bin\Debug\labs_pr.exe.config
+D:\LABS\labs_pr\labs_pr\obj\Debug\labs_pr.csprojResolveAssemblyReference.cache
+D:\LABS\labs_pr\labs_pr\bin\Debug\labs_pr.exe
+D:\LABS\labs_pr\labs_pr\bin\Debug\labs_pr.pdb
+D:\LABS\labs_pr\labs_pr\obj\Debug\labs_pr.exe
+D:\LABS\labs_pr\labs_pr\obj\Debug\labs_pr.pdb

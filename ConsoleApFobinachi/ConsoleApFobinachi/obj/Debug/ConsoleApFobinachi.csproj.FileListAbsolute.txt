@@ -1,0 +1,6 @@
+D:\LABS\ConsoleApFobinachi\ConsoleApFobinachi\bin\Debug\ConsoleApFobinachi.exe.config
+D:\LABS\ConsoleApFobinachi\ConsoleApFobinachi\bin\Debug\ConsoleApFobinachi.exe
+D:\LABS\ConsoleApFobinachi\ConsoleApFobinachi\bin\Debug\ConsoleApFobinachi.pdb
+D:\LABS\ConsoleApFobinachi\ConsoleApFobinachi\obj\Debug\ConsoleApFobinachi.csprojResolveAssemblyReference.cache
+D:\LABS\ConsoleApFobinachi\ConsoleApFobinachi\obj\Debug\ConsoleApFobinachi.exe
+D:\LABS\ConsoleApFobinachi\ConsoleApFobinachi\obj\Debug\ConsoleApFobinachi.pdb

@@ -1,0 +1,6 @@
+D:\LABS\7_2_Lab.Exception\7_2_Lab.Exception\bin\Debug\7_2_Lab.Exception.exe.config
+D:\LABS\7_2_Lab.Exception\7_2_Lab.Exception\obj\Debug\7_2_Lab.Exception.csprojResolveAssemblyReference.cache
+D:\LABS\7_2_Lab.Exception\7_2_Lab.Exception\bin\Debug\7_2_Lab.Exception.exe
+D:\LABS\7_2_Lab.Exception\7_2_Lab.Exception\bin\Debug\7_2_Lab.Exception.pdb
+D:\LABS\7_2_Lab.Exception\7_2_Lab.Exception\obj\Debug\7_2_Lab.Exception.exe
+D:\LABS\7_2_Lab.Exception\7_2_Lab.Exception\obj\Debug\7_2_Lab.Exception.pdb

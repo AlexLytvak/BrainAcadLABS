@@ -1,0 +1,6 @@
+D:\LABS\LabAPM\LabAPM\bin\Debug\LabAPM.exe.config
+D:\LABS\LabAPM\LabAPM\obj\Debug\LabAPM.csprojResolveAssemblyReference.cache
+D:\LABS\LabAPM\LabAPM\bin\Debug\LabAPM.exe
+D:\LABS\LabAPM\LabAPM\bin\Debug\LabAPM.pdb
+D:\LABS\LabAPM\LabAPM\obj\Debug\LabAPM.exe
+D:\LABS\LabAPM\LabAPM\obj\Debug\LabAPM.pdb

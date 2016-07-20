@@ -1,0 +1,9 @@
+D:\LABS\Lab_libreri\Lab_libreri\bin\Debug\Lab_libreri.exe.config
+D:\LABS\Lab_libreri\Lab_libreri\obj\Debug\4_ILibraryUser.csprojResolveAssemblyReference.cache
+D:\LABS\Lab_libreri\Lab_libreri\bin\Debug\Lab_libreri.exe
+D:\LABS\Lab_libreri\Lab_libreri\bin\Debug\Lab_libreri.pdb
+D:\LABS\Lab_libreri\Lab_libreri\obj\Debug\Lab_libreri.exe
+D:\LABS\Lab_libreri\Lab_libreri\obj\Debug\Lab_libreri.pdb
+D:\LABS\4_ILibraryUser\Lab_libreri\bin\Debug\Lab_libreri.exe.config
+D:\LABS\4_ILibraryUser\Lab_libreri\obj\Debug\Lab_libreri.exe
+D:\LABS\4_ILibraryUser\Lab_libreri\obj\Debug\Lab_libreri.pdb

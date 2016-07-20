@@ -1,0 +1,6 @@
+D:\LABS\Lab_sravnenie_mas\Lab_sravnenie_mas\bin\Debug\Lab_sravnenie_mas.exe.config
+D:\LABS\Lab_sravnenie_mas\Lab_sravnenie_mas\bin\Debug\Lab_sravnenie_mas.exe
+D:\LABS\Lab_sravnenie_mas\Lab_sravnenie_mas\bin\Debug\Lab_sravnenie_mas.pdb
+D:\LABS\Lab_sravnenie_mas\Lab_sravnenie_mas\obj\Debug\Lab_sravnenie_mas.exe
+D:\LABS\Lab_sravnenie_mas\Lab_sravnenie_mas\obj\Debug\Lab_sravnenie_mas.pdb
+D:\LABS\Lab_sravnenie_mas\Lab_sravnenie_mas\obj\Debug\Lab_sravnenie_mas.csprojResolveAssemblyReference.cache

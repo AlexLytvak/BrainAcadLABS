@@ -1,0 +1,6 @@
+D:\LABS\6_ShapeLAB\5_Shape\bin\Debug\5_Shape.exe.config
+D:\LABS\6_ShapeLAB\5_Shape\obj\Debug\5_Shape.exe
+D:\LABS\6_ShapeLAB\5_Shape\obj\Debug\5_Shape.pdb
+D:\LABS\6_ShapeLAB\5_Shape\bin\Debug\5_Shape.exe
+D:\LABS\6_ShapeLAB\5_Shape\bin\Debug\5_Shape.pdb
+D:\LABS\6_ShapeLAB\5_Shape\obj\Debug\6_Shape.csprojResolveAssemblyReference.cache

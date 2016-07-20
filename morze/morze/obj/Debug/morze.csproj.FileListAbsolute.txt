@@ -1,0 +1,6 @@
+D:\LABS\morze\morze\bin\Debug\morze.exe.config
+D:\LABS\morze\morze\obj\Debug\morze.csprojResolveAssemblyReference.cache
+D:\LABS\morze\morze\bin\Debug\morze.exe
+D:\LABS\morze\morze\bin\Debug\morze.pdb
+D:\LABS\morze\morze\obj\Debug\morze.exe
+D:\LABS\morze\morze\obj\Debug\morze.pdb

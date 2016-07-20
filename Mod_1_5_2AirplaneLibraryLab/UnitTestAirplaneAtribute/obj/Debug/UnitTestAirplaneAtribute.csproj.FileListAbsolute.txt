@@ -1,0 +1,7 @@
+D:\LABS\Mod_1_5_2AirplaneLibraryLab\UnitTestAirplaneAtribute\bin\Debug\UnitTestAirplaneAtribute.dll
+D:\LABS\Mod_1_5_2AirplaneLibraryLab\UnitTestAirplaneAtribute\bin\Debug\UnitTestAirplaneAtribute.pdb
+D:\LABS\Mod_1_5_2AirplaneLibraryLab\UnitTestAirplaneAtribute\bin\Debug\ConsoleApplication1.exe
+D:\LABS\Mod_1_5_2AirplaneLibraryLab\UnitTestAirplaneAtribute\bin\Debug\ConsoleApplication1.pdb
+D:\LABS\Mod_1_5_2AirplaneLibraryLab\UnitTestAirplaneAtribute\obj\Debug\UnitTestAirplaneAtribute.csprojResolveAssemblyReference.cache
+D:\LABS\Mod_1_5_2AirplaneLibraryLab\UnitTestAirplaneAtribute\obj\Debug\UnitTestAirplaneAtribute.dll
+D:\LABS\Mod_1_5_2AirplaneLibraryLab\UnitTestAirplaneAtribute\obj\Debug\UnitTestAirplaneAtribute.pdb

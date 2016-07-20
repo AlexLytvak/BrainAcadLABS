@@ -1,0 +1,6 @@
+D:\LABS\8_2_EventLab\8_2_EventLab\bin\Debug\8_2_EventLab.exe.config
+D:\LABS\8_2_EventLab\8_2_EventLab\bin\Debug\8_2_EventLab.exe
+D:\LABS\8_2_EventLab\8_2_EventLab\bin\Debug\8_2_EventLab.pdb
+D:\LABS\8_2_EventLab\8_2_EventLab\obj\Debug\8_2_EventLab.csprojResolveAssemblyReference.cache
+D:\LABS\8_2_EventLab\8_2_EventLab\obj\Debug\8_2_EventLab.exe
+D:\LABS\8_2_EventLab\8_2_EventLab\obj\Debug\8_2_EventLab.pdb

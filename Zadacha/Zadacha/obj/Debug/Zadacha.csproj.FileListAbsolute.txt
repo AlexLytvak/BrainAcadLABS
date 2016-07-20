@@ -1,0 +1,6 @@
+D:\LABS\Zadacha\Zadacha\bin\Debug\Zadacha.exe.config
+D:\LABS\Zadacha\Zadacha\obj\Debug\Zadacha.csprojResolveAssemblyReference.cache
+D:\LABS\Zadacha\Zadacha\bin\Debug\Zadacha.exe
+D:\LABS\Zadacha\Zadacha\bin\Debug\Zadacha.pdb
+D:\LABS\Zadacha\Zadacha\obj\Debug\Zadacha.exe
+D:\LABS\Zadacha\Zadacha\obj\Debug\Zadacha.pdb

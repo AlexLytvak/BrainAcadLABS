@@ -1,0 +1,6 @@
+D:\LABS\ConsoleAppLab2\ConsoleAppLab2\bin\Debug\ConsoleAppLab2.exe.config
+D:\LABS\ConsoleAppLab2\ConsoleAppLab2\bin\Debug\ConsoleAppLab2.exe
+D:\LABS\ConsoleAppLab2\ConsoleAppLab2\bin\Debug\ConsoleAppLab2.pdb
+D:\LABS\ConsoleAppLab2\ConsoleAppLab2\obj\Debug\ConsoleAppLab2.csprojResolveAssemblyReference.cache
+D:\LABS\ConsoleAppLab2\ConsoleAppLab2\obj\Debug\ConsoleAppLab2.exe
+D:\LABS\ConsoleAppLab2\ConsoleAppLab2\obj\Debug\ConsoleAppLab2.pdb

@@ -1,0 +1,6 @@
+D:\LABS\TharedManipulatorLab\TharedManipulatorLab\bin\Debug\TharedManipulatorLab.exe.config
+D:\LABS\TharedManipulatorLab\TharedManipulatorLab\obj\Debug\TharedManipulatorLab.csprojResolveAssemblyReference.cache
+D:\LABS\TharedManipulatorLab\TharedManipulatorLab\bin\Debug\TharedManipulatorLab.exe
+D:\LABS\TharedManipulatorLab\TharedManipulatorLab\bin\Debug\TharedManipulatorLab.pdb
+D:\LABS\TharedManipulatorLab\TharedManipulatorLab\obj\Debug\TharedManipulatorLab.exe
+D:\LABS\TharedManipulatorLab\TharedManipulatorLab\obj\Debug\TharedManipulatorLab.pdb

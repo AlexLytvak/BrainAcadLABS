@@ -1,0 +1,6 @@
+D:\LABS\LabTask\LabTask\bin\Debug\LabTask.exe.config
+D:\LABS\LabTask\LabTask\bin\Debug\LabTask.exe
+D:\LABS\LabTask\LabTask\bin\Debug\LabTask.pdb
+D:\LABS\LabTask\LabTask\obj\Debug\LabTask.csprojResolveAssemblyReference.cache
+D:\LABS\LabTask\LabTask\obj\Debug\LabTask.exe
+D:\LABS\LabTask\LabTask\obj\Debug\LabTask.pdb

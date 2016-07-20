@@ -1,0 +1,6 @@
+D:\LABS\Indexator\Indexator\bin\Debug\Indexator.exe.config
+D:\LABS\Indexator\Indexator\bin\Debug\Indexator.exe
+D:\LABS\Indexator\Indexator\bin\Debug\Indexator.pdb
+D:\LABS\Indexator\Indexator\obj\Debug\Indexator.csprojResolveAssemblyReference.cache
+D:\LABS\Indexator\Indexator\obj\Debug\Indexator.exe
+D:\LABS\Indexator\Indexator\obj\Debug\Indexator.pdb

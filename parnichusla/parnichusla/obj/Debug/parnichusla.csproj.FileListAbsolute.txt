@@ -1,0 +1,5 @@
+D:\LABS\parnichusla\parnichusla\bin\Debug\parnichusla.exe.config
+D:\LABS\parnichusla\parnichusla\bin\Debug\parnichusla.exe
+D:\LABS\parnichusla\parnichusla\bin\Debug\parnichusla.pdb
+D:\LABS\parnichusla\parnichusla\obj\Debug\parnichusla.exe
+D:\LABS\parnichusla\parnichusla\obj\Debug\parnichusla.pdb

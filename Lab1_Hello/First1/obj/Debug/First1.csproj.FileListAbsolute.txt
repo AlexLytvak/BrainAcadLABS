@@ -1,0 +1,6 @@
+D:\prC++\First1\First1\bin\Debug\First1.exe.config
+D:\prC++\First1\First1\bin\Debug\First1.exe
+D:\prC++\First1\First1\bin\Debug\First1.pdb
+D:\prC++\First1\First1\obj\Debug\First1.csprojResolveAssemblyReference.cache
+D:\prC++\First1\First1\obj\Debug\First1.exe
+D:\prC++\First1\First1\obj\Debug\First1.pdb

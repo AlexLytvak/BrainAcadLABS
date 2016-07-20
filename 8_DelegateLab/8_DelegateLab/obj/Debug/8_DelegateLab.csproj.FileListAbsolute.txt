@@ -1,0 +1,6 @@
+D:\LABS\8_DelegateLab\8_DelegateLab\bin\Debug\8_DelegateLab.exe.config
+D:\LABS\8_DelegateLab\8_DelegateLab\bin\Debug\8_DelegateLab.exe
+D:\LABS\8_DelegateLab\8_DelegateLab\bin\Debug\8_DelegateLab.pdb
+D:\LABS\8_DelegateLab\8_DelegateLab\obj\Debug\8_DelegateLab.csprojResolveAssemblyReference.cache
+D:\LABS\8_DelegateLab\8_DelegateLab\obj\Debug\8_DelegateLab.exe
+D:\LABS\8_DelegateLab\8_DelegateLab\obj\Debug\8_DelegateLab.pdb

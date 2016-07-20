@@ -1,0 +1,12 @@
+D:\LABS\7_labs\7_labs\bin\Debug\7_labs.exe.config
+D:\LABS\7_labs\7_labs\bin\Debug\7_labs.exe
+D:\LABS\7_labs\7_labs\bin\Debug\7_labs.pdb
+D:\LABS\7_labs\7_labs\obj\Debug\7_labs.csprojResolveAssemblyReference.cache
+D:\LABS\7_labs\7_labs\obj\Debug\7_labs.exe
+D:\LABS\7_labs\7_labs\obj\Debug\7_labs.pdb
+D:\LABS\7_ExceptionLab\7_labs\bin\Debug\7_labs.exe.config
+D:\LABS\7_ExceptionLab\7_labs\obj\Debug\7_labs.exe
+D:\LABS\7_ExceptionLab\7_labs\obj\Debug\7_labs.pdb
+D:\LABS\7_ExceptionLab\7_labs\bin\Debug\7_labs.exe
+D:\LABS\7_ExceptionLab\7_labs\bin\Debug\7_labs.pdb
+D:\LABS\7_ExceptionLab\7_labs\obj\Debug\7_labs.csprojResolveAssemblyReference.cache

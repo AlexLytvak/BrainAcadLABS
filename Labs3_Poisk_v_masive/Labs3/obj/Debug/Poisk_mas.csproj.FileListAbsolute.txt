@@ -1,0 +1,6 @@
+D:\LABS\Labs3\Labs3\bin\Debug\Labs3.exe.config
+D:\LABS\Labs3\Labs3\bin\Debug\Labs3.exe
+D:\LABS\Labs3\Labs3\bin\Debug\Labs3.pdb
+D:\LABS\Labs3\Labs3\obj\Debug\Poisk_mas.csprojResolveAssemblyReference.cache
+D:\LABS\Labs3\Labs3\obj\Debug\Labs3.exe
+D:\LABS\Labs3\Labs3\obj\Debug\Labs3.pdb
