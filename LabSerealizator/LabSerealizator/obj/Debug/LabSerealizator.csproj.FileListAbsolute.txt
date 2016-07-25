@@ -1,0 +1,6 @@
+D:\LABS\LabSerealizator\LabSerealizator\bin\Debug\LabSerealizator.exe.config
+D:\LABS\LabSerealizator\LabSerealizator\bin\Debug\LabSerealizator.exe
+D:\LABS\LabSerealizator\LabSerealizator\bin\Debug\LabSerealizator.pdb
+D:\LABS\LabSerealizator\LabSerealizator\obj\Debug\LabSerealizator.csprojResolveAssemblyReference.cache
+D:\LABS\LabSerealizator\LabSerealizator\obj\Debug\LabSerealizator.exe
+D:\LABS\LabSerealizator\LabSerealizator\obj\Debug\LabSerealizator.pdb
